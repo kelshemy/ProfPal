@@ -9,12 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.7",
+    "@pinecone-database/pinecone": "^3.0.2",
+    "openai": "^4.56.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.6"
+    "react-dom": "^18"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7",
     "eslint": "^8",
-    "eslint-config-next": "14.2.6"
+    "eslint-config-next": "14.2.6",
+    "next": "^14.2.6"
   }
 }

@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Johnson's lectures are engaging and informative. She's always willing to help during office hours."
+      },
+      {
+        "professor": "Prof. Michael Chang",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent teacher! Prof. Chang explains complex concepts in a way that's easy to understand."
+      },
+      {
+        "professor": "Dr. Emily Rodriguez",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Rodriguez knows her subject well, but her assignments can be unclear at times."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Lee's passion for math is contagious. His problem-solving techniques are very helpful."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Patel's lab sessions are well-organized and her explanations are crystal clear."
+      },
+      {
+        "professor": "Prof. Robert Brown",
+        "subject": "History",
+        "stars": 2,
+        "review": "Prof. Brown's lectures can be dry and monotonous. More interactive sessions would help."
+      },
+      {
+        "professor": "Dr. Jennifer White",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. White's analysis of classic texts is insightful. She encourages critical thinking."
+      },
+      {
+        "professor": "Prof. Thomas Green",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Prof. Green is knowledgeable, but his pace can be too fast for some students to follow."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Garcia's class discussions are thought-provoking and relevant to current issues."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Prof. Wilson uses real-world examples to illustrate economic principles effectively."
+      },
+      {
+        "professor": "Dr. Emma Thompson",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Thompson's passion for art is inspiring. Her virtual museum tours are a highlight."
+      },
+      {
+        "professor": "Prof. Alexander Ivanov",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Prof. Ivanov's lectures are informative, but he could improve on encouraging class participation."
+      },
+      {
+        "professor": "Dr. Olivia Chen",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Chen's research-oriented approach gives great insight into current developments in the field."
+      },
+      {
+        "professor": "Prof. Samuel Adams",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Prof. Adams' Socratic method of teaching really helps in developing critical thinking skills."
+      },
+      {
+        "professor": "Dr. Rachel Goldstein",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Dr. Goldstein makes complex genetic concepts understandable. Her office hours are very helpful."
+      },
+      {
+        "professor": "Prof. Daniel Martinez",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "Prof. Martinez's field trips are great, but his lectures could use more structure."
+      },
+      {
+        "professor": "Dr. Sophia Lee",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Lee's interactive language exercises make learning linguistics both fun and effective."
+      },
+      {
+        "professor": "Prof. William Taylor",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Prof. Taylor's real-world business experience adds valuable context to theoretical concepts."
+      },
+      {
+        "professor": "Dr. Aisha Patel",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. Patel's diverse case studies provide a comprehensive view of human cultures."
+      },
+      {
+        "professor": "Prof. George Anderson",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Prof. Anderson's explanations can be confusing. More practice problems would be helpful."
+      }
+    ]
+  }
